@@ -1,4 +1,4 @@
-# 🛠️ Static Site Generator (Python)
+# 🖥️ Static Site Generator (Python)
 
 This repository contains the **Static Site Generator** project, developed as part of the [Boot.dev course](https://www.boot.dev/courses/build-static-site-generator-python). This project focuses on building a static site generator from scratch, enhancing Python development skills and exploring content rendering techniques.
 
