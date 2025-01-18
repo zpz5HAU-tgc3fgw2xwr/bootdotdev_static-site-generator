@@ -60,7 +60,6 @@ This project provided valuable hands-on experience with:
 ## 🔗 Related Resources
 
 - [Boot.dev Course](https://www.boot.dev/courses/build-static-site-generator-python)
-- [Markdown Documentation](https://www.markdownguide.org/)
 
 ---
 
